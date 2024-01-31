@@ -1,0 +1,21 @@
+{
+  "name": "tagetik-matomo",
+  "version": "1.1.0",
+  "description": "library of integration with tracking system",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com:reflab-it/tagetik-matomo.git"
+  },
+  "keywords": [
+    "matomo",
+    "tracking",
+    "tagetik"
+  ],
+  "author": "RefLab",
+  "license": "MIT",
+  "homepage": "https://github.com/reflab-it/tagetik-matomo"
+}
